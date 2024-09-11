@@ -21,6 +21,7 @@ go build -o task
 sudo mv -f task /usr/bin
 ```
 - Note: If you did not follow the above step for safety concerns then you can still execute the command using ./task
+
 ##To list all the tasks
 ```bash
 task -list
