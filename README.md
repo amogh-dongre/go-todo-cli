@@ -7,6 +7,11 @@ Installation guide is as follows:
 ```bash
 git clone https://github.com/amogh-dongre/go-todo-cli.git
 ```
+## Initialise the module
+```bash
+go mod init github.com/amogh-dongre/go-todo-cli && go mod tidy
+```
+
 ## CD into the build directory
 
 ```bash
